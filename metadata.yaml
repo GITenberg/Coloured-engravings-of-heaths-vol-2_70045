@@ -1,0 +1,31 @@
+_repo: Coloured-engravings-of-heaths-vol-2_70045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Henry Cranke, active 1799-1828
+    aliases:
+    - Andrews, Henry Charles
+    - Andrews, H. C. (Henry Charles)
+    - Andrews, Henry C.
+    gutenberg_agent_id: '53717'
+    url: http://www.gutenberg.org/2009/agents/53717
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cranke_Andrews
+description: ''
+gutenberg_issued: '2023-02-15'
+identifiers:
+  gutenberg: '70045'
+language: en
+pgterms:marc905: 20210913044650andrews
+pgterms:marc906: '1802'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biodiversity Heritage
+  Library.)
+publication_note: '  $aUnited Kingdom :$bSelf Published, $c1802.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Coloured engravings of heaths; vol. 2
+url: http://www.gutenberg.org/ebooks/70045
